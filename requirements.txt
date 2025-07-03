@@ -1,0 +1,13 @@
+datasets==3.6.0
+ipython==9.3.0
+matplotlib==3.10.3
+metrics==0.0.2
+openai==1.93.0
+pandas==2.3.0
+plot_utils==0.6.14
+python-dotenv==1.1.1
+scikit_learn==1.7.0
+seaborn==0.13.2
+spacy==3.8.7
+spacytextblob==5.0.0
+transformers==4.53.0
