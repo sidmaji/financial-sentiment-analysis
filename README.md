@@ -73,7 +73,7 @@ Start by running the following notebooks in order:
 3. `3_finbert_inference.ipynb`
 4. `4_spacy_textblob.ipynb`
 5. `5_o4mini_inference.ipynb`
-6. `demo.ipynb` – 📊 Summary visualizations and model comparison
+6. `demo.ipynb` – 📊 Visit this first! Summary visualizations and model comparison.
 
 ---
 
