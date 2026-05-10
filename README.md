@@ -1,6 +1,7 @@
 # Financial Sentiment Analysis with Traditional & LLM Models
 
-This project evaluates multiple approaches to sentiment classification on financial text data — ranging from traditional ML models to zero-shot large language models (LLMs).
+This project evaluates multiple approaches to sentiment classification on financial text data, ranging from traditional ML models to zero-shot large language models (LLMs).
+Read the paper [here](https://utdallas.app.box.com/v/HS-Research-2025/file/1942205853071).
 
 ---
 
